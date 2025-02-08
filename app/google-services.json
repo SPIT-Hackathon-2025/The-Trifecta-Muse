@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "344792541352",
+    "firebase_url": "https://interior-8be01-default-rtdb.firebaseio.com",
+    "project_id": "interior-8be01",
+    "storage_bucket": "interior-8be01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344792541352:android:22a9ca7f2928101d6eba9d",
+        "android_client_info": {
+          "package_name": "com.example.connection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSYTeltwDFgF6HMw7ZQ2LB-w1tusdecXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
